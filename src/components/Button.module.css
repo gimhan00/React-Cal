@@ -1,0 +1,18 @@
+.calbtns{
+    height: 90px;
+    width: 90px;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    background-color: #fcfbfb;
+    user-select: none;
+    box-shadow: 5px 5px 60px #bebebe,
+    -5px -5px 15px #ffff;
+}
+
+.res{
+    width: 180px;
+    background-color: rgb(139, 246, 32);
+}
